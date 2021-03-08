@@ -9,6 +9,6 @@ class FetchCloudWatchTest {
     @Test
     void fetchData() {
         // 參數不知道給啥
-        // new FetchCloudWatch().fetchData();
+         new FetchCloudWatch().fetchData("AWS/EC2");
     }
 }

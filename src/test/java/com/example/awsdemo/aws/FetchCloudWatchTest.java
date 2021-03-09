@@ -1,8 +1,7 @@
 package com.example.awsdemo.aws;
 
+import com.example.awsdemo.service.FetchCloudWatch;
 import org.junit.jupiter.api.Test;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 class FetchCloudWatchTest {
 
